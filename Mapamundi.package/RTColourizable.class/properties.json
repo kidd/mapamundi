@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AnObsoleteRTInteraction",
+	"category" : "Mapamundi",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTColourizable",
+	"type" : "normal"
+}
